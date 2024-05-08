@@ -15,9 +15,10 @@ body {
   }
   
   button {
-    padding: 8px 16px;
+    padding: 40px 50px;
     font-size: 16px;
     cursor: pointer;
+    border: none;
     /* HMKO PERSONALLY LAGTA HAI, MOBILE ME BUTTON NHI DIKHTA TO JYADA SAHI RAHTA, BAKI TUMHARA MAN */
   }
   
